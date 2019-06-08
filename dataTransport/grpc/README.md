@@ -1,0 +1,1 @@
+gRPC是一个基于 HTTP/2，默认使用 Protocol Buffers 作为其接口定义语言来描述服务接口和负载信息的格式。

@@ -1,0 +1,17 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": "在nodejs中使用grpc的简单例子.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.0",
+    "grpc": "^1.20.3",
+    "ramda": "^0.26.1"
+  }
+}
