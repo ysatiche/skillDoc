@@ -55,7 +55,7 @@ $a$ 可以设置为5
 <font color=orange>模拟退火？</font>
 
 
-
+> 归一化处理
 
 
 
